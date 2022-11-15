@@ -1,1 +1,1 @@
-# Bank-Customers-Credit-Card-Approval-XGB-CatBoost-GridcvHypertune
+# Bank-Customers-Credit-Card-Approval-XGB-CatBoost-GridcvHyperparametertune
